@@ -1,12 +1,96 @@
-# React + Vite
+# 🧠 Maths Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Maths Quiz App built using **React.js** and **Vite**. This app helps users practice basic math operations like addition, subtraction, multiplication, and division through multiple-choice questions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Multiple-choice math questions
+- Instant score calculation
+- Simple and clean user interface
+- Quiz restart functionality
+- Fast performance using Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- [React.js](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- JavaScript (ES6)
+- HTML & CSS
+
+---
+
+## 📸 Screenshot
+
+
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+├── components/
+│   ├── Question.jsx      // Component to display questions and options
+│   └── Result.jsx        // Component to show quiz result
+├── mathQuestions.js      // Static question data
+├── App.jsx               // Main app logic
+├── App.css               // Basic styling
+└── main.jsx              // Entry point
+```
+
+---
+
+## 🧪 Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/maths-quiz-app.git
+cd maths-quiz-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Open your browser and visit [http://localhost:5173](http://localhost:5173)
+
+---
+
+## ✨ Future Improvements
+
+- Add timer-based questions
+- Include difficulty levels (Easy, Medium, Hard)
+- Add a progress bar
+- Connect to a backend for dynamic question generation
+- Track and store high scores using local storage or a database
+
+---
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ Author
+
+**Your Name**  
+[GitHub](https://github.com/your-username)  
+[LinkedIn](https://www.linkedin.com/in/your-profile)  
+[Portfolio](https://your-portfolio-site.com)
+
+---
+
+*Feel free to fork this repo, improve the app, and make it your own!*
