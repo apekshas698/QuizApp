@@ -25,6 +25,11 @@ A simple and interactive Maths Quiz App built using **React.js** and **Vite**. T
 
 ## 📸 Screenshot
 
+![Screenshot 2025-06-09 172946](https://github.com/user-attachments/assets/2d02e80b-2bd3-4d76-ab79-3dbc911d8e03)
+![Screenshot 2025-06-09 173017](https://github.com/user-attachments/assets/9da0add8-d62b-4eab-91ce-8a84038b9e3d)
+![Screenshot 2025-06-09 173003](https://github.com/user-attachments/assets/09c1fe3b-a26c-4ce9-91e7-85ce429cdcc5)
+
+
 
 
 ---
